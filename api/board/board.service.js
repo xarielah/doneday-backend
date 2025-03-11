@@ -1,3 +1,4 @@
+import { ObjectId } from "mongodb";
 import { dbService } from "../../services/db.service.js";
 
 export const boardService = {
@@ -21,12 +22,12 @@ async function createBoard(board) {
 
 async function updateBoard(board) {
     const collection = await dbService.getCollection('boards');
-    const updatedBoard = await collection.updateOne({ _id: board._id }, board);
+    const updatedBoard = await collection.updateOne({ _id: ObjectId.createFromHexString(board._id) }, board);
     return updatedBoard;
 }
 
 async function deleteBoard(board) {
     const collection = await dbService.getCollection('boards');
-    const deletedBoard = await collection.deleteOne({ _id: board._id });
+    const deletedBoard = await collection.deleteOne({ _id: ObjectId.createFromHexString(board._id) });
     return deletedBoard;
 }

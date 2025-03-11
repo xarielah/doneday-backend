@@ -1,11 +1,12 @@
 import { Router } from 'express';
+import { requireAuth } from '../../middlewares/requireAuth.middleware.js';
 import { boardController } from './board.controller.js';
 
 const boardRouter = Router();
 
-boardRouter.get('/', boardController.getBoards);
-boardRouter.post('/', boardController.createBoard);
-boardRouter.put('/:id', boardController.updateBoard);
-boardRouter.delete('/:id', boardController.deleteBoard);
+boardRouter.get('/', requireAuth, boardController.getBoards);
+boardRouter.post('/', requireAuth, boardController.createBoard);
+boardRouter.put('/:id', requireAuth, boardController.updateBoard);
+boardRouter.delete('/:id', requireAuth, boardController.deleteBoard);
 
 export default boardRouter;

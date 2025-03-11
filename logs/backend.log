@@ -1,0 +1,36 @@
+10.3.2025, 18:58:23 - INFO - Server is running on port: 1234
+11.3.2025, 20:47:25 - INFO - Server is running on port: 1234
+11.3.2025, 20:47:27 - DEBUG - auth.service - login with username: ariel
+11.3.2025, 20:47:43 - DEBUG - auth.service - signup with username: ariel, fullname: undefined
+11.3.2025, 20:47:45 - DEBUG - auth.service - login with username: ariel | 67d0854f9ac065be10afc10f
+11.3.2025, 20:47:49 - DEBUG - auth.service - login with username: ariel | 67d0854f9ac065be10afc10f
+11.3.2025, 20:48:41 - DEBUG - auth.service - login with username: ariel | 67d0854f9ac065be10afc10f
+11.3.2025, 20:50:12 - INFO - Server is running on port: 1234
+11.3.2025, 20:50:38 - INFO - Server is running on port: 1234
+11.3.2025, 20:51:16 - INFO - Server is running on port: 1234
+11.3.2025, 20:51:45 - INFO - Server is running on port: 1234
+11.3.2025, 21:39:45 - INFO - Server is running on port: 1234
+11.3.2025, 21:40:29 - INFO - Server is running on port: 1234
+11.3.2025, 21:40:40 - INFO - Server is running on port: 1234
+11.3.2025, 21:40:59 - INFO - Server is running on port: 1234
+11.3.2025, 21:41:18 - INFO - Server is running on port: 1234
+11.3.2025, 21:41:29 - INFO - Server is running on port: 1234
+11.3.2025, 21:41:36 - INFO - Server is running on port: 1234
+11.3.2025, 21:41:45 - INFO - Server is running on port: 1234
+11.3.2025, 21:41:47 - INFO - Server is running on port: 1234
+11.3.2025, 21:43:22 - INFO - Server is running on port: 1234
+11.3.2025, 21:43:41 - INFO - Server is running on port: 1234
+11.3.2025, 21:43:44 - INFO - Server is running on port: 1234
+11.3.2025, 21:44:08 - INFO - Server is running on port: 1234
+11.3.2025, 21:44:32 - INFO - Server is running on port: 1234
+11.3.2025, 21:45:14 - INFO - Server is running on port: 1234
+11.3.2025, 21:46:02 - INFO - Server is running on port: 1234
+11.3.2025, 21:46:20 - INFO - Server is running on port: 1234
+11.3.2025, 21:46:30 - INFO - Server is running on port: 1234
+11.3.2025, 21:48:22 - INFO - Server is running on port: 1234
+11.3.2025, 21:49:10 - INFO - Server is running on port: 1234
+11.3.2025, 21:49:24 - INFO - Server is running on port: 1234
+11.3.2025, 21:49:47 - INFO - Server is running on port: 1234
+11.3.2025, 21:50:19 - INFO - Server is running on port: 1234
+11.3.2025, 21:54:18 - INFO - Server is running on port: 1234
+11.3.2025, 21:58:00 - INFO - Server is running on port: 1234
