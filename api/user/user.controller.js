@@ -4,16 +4,24 @@ export const userController = {
     getUserById,
     createUser,
     updateUser,
-    deleteUser
+    deleteUser,
+    getUsers
 };
+
+async function getUsers(_, res) {
+    try {
+        const users = await userService.getUsers();
+        return res.send(users);
+    } catch (error) {
+        console.log('ERROR: cannot fetch users from DB', error);
+        return res.status(500).send('Encountered an error trying to fetch users');
+    }
+}
 
 async function getUserById(req, res) {
     try {
         const userId = req.params.userId;
         const user = await userService.getUserById(userId);
-
-        if (!user)
-            return res.status(404).send('Could not find user with id \"${userId}\"');
 
         delete user.password;
 

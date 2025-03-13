@@ -13,6 +13,10 @@ export const userService = {
 async function getUserById(userId) {
     const collection = await dbService.getCollection('users');
     const user = await collection.findOne({ _id: ObjectId.createFromHexString(userId) });
+
+    if (!user)
+        return Promise.reject(`Could not find user with id \"${userId}\"`)
+
     return user;
 }
 
@@ -28,13 +32,25 @@ async function createUser(user) {
     const foundUser = await collection.findOne({ username: user.username });
     if (foundUser) return Promise.reject('Username already exists');
 
-    user._id = user._id.toString();
-    const saltRounds = 10
-    const encryptedInputPassword = await bcrypt.hash(user.password, saltRounds);
-    user.password = encryptedInputPassword;
+    if (!user.fullname || !user.username || !user.password)
+        return Promise.reject('Missing fullname, username or password');
 
-    const newUser = await collection.insertOne(user);
-    return newUser;
+    const userToCreate = {
+        fullname: user.fullname,
+        username: user.username,
+        password: user.password,
+        isAdmin: user.isAdmin || false,
+    };
+
+    const saltRounds = 10
+    const encryptedInputPassword = await bcrypt.hash(userToCreate.password, saltRounds);
+    userToCreate.password = encryptedInputPassword;
+
+    const { insertedId } = await collection.insertOne(userToCreate);
+    userToCreate._id = insertedId.toString();
+    delete userToCreate.password;
+
+    return userToCreate;
 }
 
 async function updateUser(user) {

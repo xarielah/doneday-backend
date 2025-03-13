@@ -1,36 +1,203 @@
-10.3.2025, 18:58:23 - INFO - Server is running on port: 1234
-11.3.2025, 20:47:25 - INFO - Server is running on port: 1234
-11.3.2025, 20:47:27 - DEBUG - auth.service - login with username: ariel
-11.3.2025, 20:47:43 - DEBUG - auth.service - signup with username: ariel, fullname: undefined
-11.3.2025, 20:47:45 - DEBUG - auth.service - login with username: ariel | 67d0854f9ac065be10afc10f
-11.3.2025, 20:47:49 - DEBUG - auth.service - login with username: ariel | 67d0854f9ac065be10afc10f
-11.3.2025, 20:48:41 - DEBUG - auth.service - login with username: ariel | 67d0854f9ac065be10afc10f
-11.3.2025, 20:50:12 - INFO - Server is running on port: 1234
-11.3.2025, 20:50:38 - INFO - Server is running on port: 1234
-11.3.2025, 20:51:16 - INFO - Server is running on port: 1234
-11.3.2025, 20:51:45 - INFO - Server is running on port: 1234
-11.3.2025, 21:39:45 - INFO - Server is running on port: 1234
-11.3.2025, 21:40:29 - INFO - Server is running on port: 1234
-11.3.2025, 21:40:40 - INFO - Server is running on port: 1234
-11.3.2025, 21:40:59 - INFO - Server is running on port: 1234
-11.3.2025, 21:41:18 - INFO - Server is running on port: 1234
-11.3.2025, 21:41:29 - INFO - Server is running on port: 1234
-11.3.2025, 21:41:36 - INFO - Server is running on port: 1234
-11.3.2025, 21:41:45 - INFO - Server is running on port: 1234
-11.3.2025, 21:41:47 - INFO - Server is running on port: 1234
-11.3.2025, 21:43:22 - INFO - Server is running on port: 1234
-11.3.2025, 21:43:41 - INFO - Server is running on port: 1234
-11.3.2025, 21:43:44 - INFO - Server is running on port: 1234
-11.3.2025, 21:44:08 - INFO - Server is running on port: 1234
-11.3.2025, 21:44:32 - INFO - Server is running on port: 1234
-11.3.2025, 21:45:14 - INFO - Server is running on port: 1234
-11.3.2025, 21:46:02 - INFO - Server is running on port: 1234
-11.3.2025, 21:46:20 - INFO - Server is running on port: 1234
-11.3.2025, 21:46:30 - INFO - Server is running on port: 1234
-11.3.2025, 21:48:22 - INFO - Server is running on port: 1234
-11.3.2025, 21:49:10 - INFO - Server is running on port: 1234
-11.3.2025, 21:49:24 - INFO - Server is running on port: 1234
-11.3.2025, 21:49:47 - INFO - Server is running on port: 1234
-11.3.2025, 21:50:19 - INFO - Server is running on port: 1234
-11.3.2025, 21:54:18 - INFO - Server is running on port: 1234
-11.3.2025, 21:58:00 - INFO - Server is running on port: 1234
+12.3.2025, 18:18:43 - DEBUG - Setting up sockets
+12.3.2025, 18:18:43 - INFO - Server is running on port: 3030
+12.3.2025, 18:18:45 - INFO - New connected socket [id: p21V-nItrdsbo70wAAAB]
+12.3.2025, 18:20:18 - DEBUG - auth.service - login with username: ariel
+12.3.2025, 18:21:12 - DEBUG - Setting up sockets
+12.3.2025, 18:21:12 - INFO - Server is running on port: 3030
+12.3.2025, 18:21:29 - DEBUG - Setting up sockets
+12.3.2025, 18:21:29 - INFO - Server is running on port: 3030
+12.3.2025, 18:21:32 - DEBUG - auth.service - login with username: ariel | 67d0854f9ac065be10afc10f
+12.3.2025, 18:21:33 - DEBUG - auth.service - login with username: ariel | 67d0854f9ac065be10afc10f
+12.3.2025, 18:22:32 - INFO - New connected socket [id: 2ig7IucburrWW5xtAAAB]
+12.3.2025, 18:23:00 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: 2ig7IucburrWW5xtAAAB]
+12.3.2025, 18:24:48 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: 2ig7IucburrWW5xtAAAB]
+12.3.2025, 18:24:58 - INFO - Removing socket.userId for socket [id: 2ig7IucburrWW5xtAAAB]
+12.3.2025, 18:25:01 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: 2ig7IucburrWW5xtAAAB]
+12.3.2025, 18:25:28 - DEBUG - auth.service - login with username: arielsfhd
+12.3.2025, 18:25:43 - INFO - Setting socket.userId = 67d096b8ea5f22b4d2332be0 for socket [id: 2ig7IucburrWW5xtAAAB]
+12.3.2025, 18:26:31 - DEBUG - Setting up sockets
+12.3.2025, 18:26:31 - INFO - Server is running on port: 3030
+12.3.2025, 18:26:57 - DEBUG - Setting up sockets
+12.3.2025, 18:26:57 - INFO - Server is running on port: 3030
+12.3.2025, 18:26:59 - DEBUG - Setting up sockets
+12.3.2025, 18:26:59 - INFO - Server is running on port: 3030
+12.3.2025, 18:27:00 - DEBUG - Setting up sockets
+12.3.2025, 18:27:00 - INFO - Server is running on port: 3030
+12.3.2025, 18:43:35 - INFO - New connected socket [id: 1jp3AEwQmcbIVGW0AAAB]
+12.3.2025, 18:43:44 - DEBUG - auth.service - login with username: arielsfhd | 67d096b8ea5f22b4d2332be0
+12.3.2025, 18:44:06 - DEBUG - Setting up sockets
+12.3.2025, 18:44:06 - INFO - Server is running on port: 3030
+12.3.2025, 18:45:11 - DEBUG - Setting up sockets
+12.3.2025, 18:45:11 - INFO - Server is running on port: 3030
+12.3.2025, 18:45:14 - DEBUG - Setting up sockets
+12.3.2025, 18:45:14 - INFO - Server is running on port: 3030
+12.3.2025, 18:47:02 - DEBUG - Setting up sockets
+12.3.2025, 18:47:02 - INFO - Server is running on port: 3030
+12.3.2025, 18:47:25 - DEBUG - Setting up sockets
+12.3.2025, 18:47:25 - INFO - Server is running on port: 3030
+12.3.2025, 18:47:32 - DEBUG - auth.service - login with username: arielsfhd | 67d096b8ea5f22b4d2332be0
+12.3.2025, 18:47:33 - INFO - New connected socket [id: xaKVKboksg2sREtRAAAB]
+12.3.2025, 18:47:41 - INFO - Setting socket.userId =  for socket [id: xaKVKboksg2sREtRAAAB]
+12.3.2025, 18:47:49 - INFO - Setting socket.userId = 67d096b8ea5f22b4d2332be0 for socket [id: xaKVKboksg2sREtRAAAB]
+12.3.2025, 18:50:24 - DEBUG - Setting up sockets
+12.3.2025, 18:50:24 - INFO - Server is running on port: 3030
+12.3.2025, 18:51:28 - DEBUG - Setting up sockets
+12.3.2025, 18:51:28 - INFO - Server is running on port: 3030
+12.3.2025, 18:51:39 - DEBUG - Setting up sockets
+12.3.2025, 18:51:39 - INFO - Server is running on port: 3030
+12.3.2025, 18:51:57 - DEBUG - Setting up sockets
+12.3.2025, 18:51:57 - INFO - Server is running on port: 3030
+12.3.2025, 18:52:14 - DEBUG - Setting up sockets
+12.3.2025, 18:52:14 - INFO - Server is running on port: 3030
+12.3.2025, 18:52:42 - DEBUG - Setting up sockets
+12.3.2025, 18:52:42 - INFO - Server is running on port: 3030
+12.3.2025, 18:52:59 - DEBUG - Setting up sockets
+12.3.2025, 18:52:59 - INFO - Server is running on port: 3030
+12.3.2025, 18:53:10 - DEBUG - Setting up sockets
+12.3.2025, 18:53:10 - INFO - Server is running on port: 3030
+12.3.2025, 18:53:19 - DEBUG - Setting up sockets
+12.3.2025, 18:53:19 - INFO - Server is running on port: 3030
+12.3.2025, 18:54:15 - DEBUG - Setting up sockets
+12.3.2025, 18:54:15 - INFO - Server is running on port: 3030
+12.3.2025, 18:54:50 - DEBUG - Setting up sockets
+12.3.2025, 18:54:50 - INFO - Server is running on port: 3030
+12.3.2025, 18:55:26 - DEBUG - Setting up sockets
+12.3.2025, 18:55:26 - INFO - Server is running on port: 3030
+12.3.2025, 18:56:52 - DEBUG - Setting up sockets
+12.3.2025, 18:56:52 - INFO - Server is running on port: 3030
+12.3.2025, 18:57:24 - DEBUG - Setting up sockets
+12.3.2025, 18:57:24 - INFO - Server is running on port: 3030
+12.3.2025, 18:57:44 - DEBUG - Setting up sockets
+12.3.2025, 18:57:44 - INFO - Server is running on port: 3030
+12.3.2025, 18:58:36 - DEBUG - Setting up sockets
+12.3.2025, 18:58:36 - INFO - Server is running on port: 3030
+12.3.2025, 18:58:42 - DEBUG - Setting up sockets
+12.3.2025, 18:58:42 - INFO - Server is running on port: 3030
+12.3.2025, 18:58:59 - DEBUG - Setting up sockets
+12.3.2025, 18:58:59 - INFO - Server is running on port: 3030
+12.3.2025, 19:00:20 - DEBUG - Setting up sockets
+12.3.2025, 19:00:20 - INFO - Server is running on port: 3030
+12.3.2025, 19:00:40 - DEBUG - Setting up sockets
+12.3.2025, 19:00:40 - INFO - Server is running on port: 3030
+12.3.2025, 19:00:48 - DEBUG - Setting up sockets
+12.3.2025, 19:00:48 - INFO - Server is running on port: 3030
+12.3.2025, 19:01:04 - DEBUG - Setting up sockets
+12.3.2025, 19:01:04 - INFO - Server is running on port: 3030
+12.3.2025, 19:01:28 - DEBUG - Setting up sockets
+12.3.2025, 19:01:28 - INFO - Server is running on port: 3030
+12.3.2025, 19:03:00 - DEBUG - Setting up sockets
+12.3.2025, 19:03:00 - INFO - Server is running on port: 3030
+12.3.2025, 19:03:27 - DEBUG - Setting up sockets
+12.3.2025, 19:03:27 - INFO - Server is running on port: 3030
+12.3.2025, 19:03:39 - DEBUG - auth.service - login with username: arielsfhd | 67d096b8ea5f22b4d2332be0
+12.3.2025, 19:03:50 - INFO - New connected socket [id: xWICVLOXHPn8NCKYAAAB]
+12.3.2025, 19:03:56 - INFO - Setting socket.userId = 67d096b8ea5f22b4d2332be0 for socket [id: xWICVLOXHPn8NCKYAAAB]
+12.3.2025, 19:12:15 - DEBUG - Setting up sockets
+12.3.2025, 19:12:15 - INFO - Server is running on port: 3030
+12.3.2025, 19:13:02 - INFO - New connected socket [id: VxEYyhHQUGBVspIKAAAB]
+12.3.2025, 19:13:03 - INFO - Socket disconnected [id: undefined]
+12.3.2025, 19:13:04 - INFO - New connected socket [id: OdWT0SZ8dGpLv87HAAAD]
+12.3.2025, 19:13:17 - DEBUG - auth.service - login with username: arielsfhd | 67d096b8ea5f22b4d2332be0
+12.3.2025, 19:13:27 - INFO - Setting socket.userId = 67d096b8ea5f22b4d2332be0 for socket [id: OdWT0SZ8dGpLv87HAAAD]
+12.3.2025, 19:16:10 - DEBUG - Setting up sockets
+12.3.2025, 19:16:10 - INFO - Server is running on port: 3030
+12.3.2025, 19:16:49 - DEBUG - Setting up sockets
+12.3.2025, 19:16:49 - INFO - Server is running on port: 3030
+12.3.2025, 19:19:19 - DEBUG - auth.service - login with username: arielsfhd | 67d096b8ea5f22b4d2332be0
+12.3.2025, 19:19:25 - INFO - New connected socket [id: n6TjWTlgoy0tuX5LAAAB]
+12.3.2025, 19:19:28 - INFO - Setting socket.userId = 67d096b8ea5f22b4d2332be0 for socket [id: n6TjWTlgoy0tuX5LAAAB]
+12.3.2025, 19:20:23 - DEBUG - Setting up sockets
+12.3.2025, 19:20:23 - INFO - Server is running on port: 3030
+12.3.2025, 19:20:32 - DEBUG - Setting up sockets
+12.3.2025, 19:20:32 - INFO - Server is running on port: 3030
+12.3.2025, 19:20:41 - DEBUG - Setting up sockets
+12.3.2025, 19:20:41 - INFO - Server is running on port: 3030
+12.3.2025, 19:20:51 - DEBUG - Setting up sockets
+12.3.2025, 19:20:51 - INFO - Server is running on port: 3030
+12.3.2025, 19:21:27 - DEBUG - Setting up sockets
+12.3.2025, 19:21:27 - INFO - Server is running on port: 3030
+12.3.2025, 19:21:55 - DEBUG - Setting up sockets
+12.3.2025, 19:21:55 - INFO - Server is running on port: 3030
+12.3.2025, 19:22:01 - DEBUG - auth.service - login with username: arielsfhd | 67d096b8ea5f22b4d2332be0
+12.3.2025, 19:22:04 - INFO - New connected socket [id: ZKpFbxR9GiA1FFqEAAAB]
+12.3.2025, 19:22:07 - INFO - Setting socket.userId = 67d096b8ea5f22b4d2332be0 for socket [id: ZKpFbxR9GiA1FFqEAAAB]
+12.3.2025, 19:23:08 - DEBUG - Setting up sockets
+12.3.2025, 19:23:08 - INFO - Server is running on port: 3030
+12.3.2025, 19:23:22 - DEBUG - Setting up sockets
+12.3.2025, 19:23:22 - INFO - Server is running on port: 3030
+12.3.2025, 19:24:49 - DEBUG - Setting up sockets
+12.3.2025, 19:24:49 - INFO - Server is running on port: 3030
+12.3.2025, 19:24:52 - DEBUG - Setting up sockets
+12.3.2025, 19:24:52 - INFO - Server is running on port: 3030
+12.3.2025, 19:25:27 - DEBUG - Setting up sockets
+12.3.2025, 19:25:27 - INFO - Server is running on port: 3030
+12.3.2025, 19:25:29 - INFO - Broadcasting event: updated-board | 67d096b8ea5f22b4d2332be0
+12.3.2025, 19:25:29 - INFO - Emit to room: board:67d1ba405ca12a1a14c43276 | 67d096b8ea5f22b4d2332be0
+12.3.2025, 19:25:37 - DEBUG - Setting up sockets
+12.3.2025, 19:25:37 - INFO - Server is running on port: 3030
+12.3.2025, 19:25:52 - DEBUG - Setting up sockets
+12.3.2025, 19:25:52 - INFO - Server is running on port: 3030
+12.3.2025, 19:26:01 - DEBUG - auth.service - login with username: arielsfhd | 67d096b8ea5f22b4d2332be0
+12.3.2025, 19:26:07 - INFO - New connected socket [id: PjiHYDv2LY1rOmDhAAAB]
+12.3.2025, 19:26:07 - INFO - Setting socket.userId = 67d096b8ea5f22b4d2332be0 for socket [id: PjiHYDv2LY1rOmDhAAAB]
+12.3.2025, 19:28:17 - DEBUG - Setting up sockets
+12.3.2025, 19:28:17 - INFO - Server is running on port: 3030
+12.3.2025, 19:28:32 - INFO - Server is running on port: 3030
+12.3.2025, 19:28:32 - DEBUG - Setting up sockets
+12.3.2025, 19:28:44 - DEBUG - Setting up sockets
+12.3.2025, 19:28:44 - INFO - Server is running on port: 3030
+12.3.2025, 19:28:58 - INFO - New connected socket [id: WDNy3TfP5_UMtn4KAAAB]
+12.3.2025, 19:29:04 - DEBUG - auth.service - login with username: arielsfhd | 67d096b8ea5f22b4d2332be0
+12.3.2025, 19:29:07 - INFO - Setting socket.userId = 67d096b8ea5f22b4d2332be0 for socket [id: WDNy3TfP5_UMtn4KAAAB]
+12.3.2025, 19:57:21 - DEBUG - auth.service - login with username: arielsfhd | 67d096b8ea5f22b4d2332be0
+12.3.2025, 19:57:30 - INFO - Setting socket.userId = 67d096b8ea5f22b4d2332be0 for socket [id: WDNy3TfP5_UMtn4KAAAB]
+12.3.2025, 19:57:48 - INFO - Broadcasting event: updated-board | 67d096b8ea5f22b4d2332be0
+12.3.2025, 19:57:48 - INFO - Broadcast to room board:67d1ba405ca12a1a14c43276 excluding user: 67d096b8ea5f22b4d2332be0 | 67d096b8ea5f22b4d2332be0
+12.3.2025, 19:59:02 - DEBUG - Setting up sockets
+12.3.2025, 19:59:02 - INFO - Server is running on port: 3030
+12.3.2025, 19:59:23 - INFO - New connected socket [id: Dwumk3rSR4XezPIkAAAB]
+12.3.2025, 19:59:25 - INFO - watch-boards from socket [id: Dwumk3rSR4XezPIkAAAB], on boards [
+    "67d096b8ea5f22b4d2332be0"
+]
+12.3.2025, 19:59:25 - INFO - watch-boards from socket [id: Dwumk3rSR4XezPIkAAAB], on boards [
+    "67d096b8ea5f22b4d2332be0"
+]
+12.3.2025, 19:59:47 - DEBUG - Setting up sockets
+12.3.2025, 19:59:47 - INFO - Server is running on port: 3030
+12.3.2025, 19:59:51 - INFO - New connected socket [id: 9dDrXcU9crJD80OrAAAB]
+12.3.2025, 19:59:52 - INFO - watch-boards from socket [id: 9dDrXcU9crJD80OrAAAB], on boards [
+    "67d096b8ea5f22b4d2332be0"
+]
+12.3.2025, 19:59:52 - INFO - string
+12.3.2025, 19:59:59 - DEBUG - Setting up sockets
+12.3.2025, 19:59:59 - INFO - Server is running on port: 3030
+12.3.2025, 20:00:01 - INFO - New connected socket [id: XWXytBmIHj7iowbwAAAB]
+12.3.2025, 20:00:02 - INFO - watch-boards from socket [id: XWXytBmIHj7iowbwAAAB], on boards [
+    "67d096b8ea5f22b4d2332be0"
+]
+12.3.2025, 20:00:02 - INFO - object
+12.3.2025, 20:00:16 - DEBUG - Setting up sockets
+12.3.2025, 20:00:16 - INFO - Server is running on port: 3030
+12.3.2025, 20:00:21 - INFO - New connected socket [id: aGDNJJQHTSh09bSOAAAB]
+12.3.2025, 20:00:22 - INFO - watch-boards from socket [id: aGDNJJQHTSh09bSOAAAB], on boards [
+    "67d096b8ea5f22b4d2332be0"
+]
+12.3.2025, 20:00:22 - INFO - true
+12.3.2025, 20:02:25 - DEBUG - Setting up sockets
+12.3.2025, 20:02:25 - INFO - Server is running on port: 3030
+12.3.2025, 20:02:39 - DEBUG - Setting up sockets
+12.3.2025, 20:02:39 - INFO - Server is running on port: 3030
+12.3.2025, 20:02:53 - DEBUG - Setting up sockets
+12.3.2025, 20:02:53 - INFO - Server is running on port: 3030
+12.3.2025, 20:02:56 - DEBUG - auth.service - login with username: arielsfhd | 67d096b8ea5f22b4d2332be0
+12.3.2025, 20:03:08 - INFO - New connected socket [id: ch69hoDQXYmA3X5uAAAB]
+12.3.2025, 20:03:11 - INFO - Setting socket.userId = 67d096b8ea5f22b4d2332be0 for socket [id: ch69hoDQXYmA3X5uAAAB]
+12.3.2025, 20:03:30 - INFO - watch-boards from socket [id: ch69hoDQXYmA3X5uAAAB], on boards ["67d1ba405ca12a1a14c43276"]
+12.3.2025, 20:03:40 - INFO - Broadcasting event: updated-board | 67d096b8ea5f22b4d2332be0
+12.3.2025, 20:03:40 - INFO - Broadcast to room board:67d1ba405ca12a1a14c43276 excluding user: 67d096b8ea5f22b4d2332be0 | 67d096b8ea5f22b4d2332be0
+12.3.2025, 20:03:58 - DEBUG - auth.service - signup with username: arielsfhd2, fullname: Ariel Aharon | 67d096b8ea5f22b4d2332be0
+12.3.2025, 20:04:02 - DEBUG - auth.service - login with username: arielsfhd2
+12.3.2025, 20:04:10 - INFO - Broadcasting event: updated-board | 67d1cc8ea8bced2322e2fb4e
+12.3.2025, 20:04:10 - INFO - Emit to room: board:67d1ba405ca12a1a14c43276 | 67d1cc8ea8bced2322e2fb4e
+12.3.2025, 20:09:59 - DEBUG - auth.service - login with username: arielsfhd2 | 67d1cc8ea8bced2322e2fb4e
+12.3.2025, 20:59:44 - INFO - Socket disconnected [id: undefined]
