@@ -13,37 +13,39 @@ export function setupSocketAPI(http) {
         }
     })
     gIo.on('connection', socket => {
-        logger.info(`New connected socket [id: ${socket.id}]`)
+        logger.info(`New connected socket [id: ${socket.id}]`);
         socket.on('disconnect', socket => {
-            logger.info(`Socket disconnected [id: ${socket.id}]`)
+            logger.info(`Socket disconnected [id: ${socket.id}]`);
         })
         socket.on('user-watch', userId => {
-            logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`)
-            socket.join('watching:' + userId)
+            logger.info(`user-watch from socket [id: ${socket.id}], on user ${userId}`);
+            socket.join('watching:' + userId);
         })
-        socket.on('watch-boards', boards => {
-            logger.info(`watch-boards from socket [id: ${socket.id}], on boards ${boards}`)
-            const boardsArray = JSON.parse(boards);
-            if (Array.isArray(boardsArray)) {
-                boardsArray.forEach(boardId => {
-                    socket.join('board:' + boardId)
-                })
-            }
+        socket.on('watch-board', board => {
+            const room = 'board:' + board;
+            logger.info(`Event watch-board from socket [id: ${socket.id}], on room ${room}`);
+            socket.join(room);
+        })
+        socket.on('unwatch-board', board => {
+            const room = 'board:' + board;
+            logger.info(`Event unwatch-board from socket [id: ${socket.id}], on room ${room}`);
+            socket.leave(room);
         })
         socket.on('set-user-socket', userId => {
-            logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`)
-            socket.userId = userId
+            logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`);
+            socket.userId = userId;
         })
         socket.on('unset-user-socket', () => {
-            logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
-            delete socket.userId
+            logger.info(`Removing socket.userId for socket [id: ${socket.id}]`);
+            delete socket.userId;
         })
     })
 }
 
 
 function emitTo({ type, data, label }) {
-    if (label) gIo.to('watching:' + label.toString()).emit(type, data)
+    logger.info(`Emiting event: ${type} to label: ${label}`)
+    if (label) gIo.to(label.toString()).emit(type, data)
     else gIo.emit(type, data)
 }
 
@@ -51,7 +53,6 @@ function emitTo({ type, data, label }) {
 async function emitToUser({ type, data, userId }) {
     userId = userId.toString()
     const socket = await _getUserSocket(userId)
-
 
     if (socket) {
         logger.info(`Emiting event: ${type} to user: ${userId} socket [id: ${socket.id}]`)
@@ -68,11 +69,15 @@ async function emitToUser({ type, data, userId }) {
 async function broadcast({ type, data, room = null, userId }) {
     userId = userId.toString()
 
+    if (!userId)
+        logger.warn("socketService.broadcast - No userId provided to broadcast!");
+
     logger.info(`Broadcasting event: ${type}`)
     const excludedSocket = await _getUserSocket(userId)
     if (room && excludedSocket) {
         logger.info(`Broadcast to room ${room} excluding user: ${userId}`)
-        excludedSocket.broadcast.to(room).emit(type, data)
+        excludedSocket.to(room).emit(type, data)
+        // excludedSocket.broadcast.to(room).emit(type, data)
     } else if (excludedSocket) {
         logger.info(`Broadcast to all excluding user: ${userId}`)
         excludedSocket.broadcast.emit(type, data)

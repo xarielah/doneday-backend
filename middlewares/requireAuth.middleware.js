@@ -7,8 +7,8 @@ export function requireAuth(req, res, next) {
     const { loggedinUser } = asyncLocalStorage.getStore()
     req.user = loggedinUser
 
-
     if (config.isGuestMode && !loggedinUser) {
+        logger.debug("Guest user is performing an action.");
         req.user = { _id: '', fullname: 'Guest' }
         return next()
     }
@@ -23,7 +23,7 @@ export function requireAdmin(_, res, next) {
     if (!loggedinUser.isAdmin) {
         logger.warn(loggedinUser.fullname + 'attempted to perform admin action')
         res.status(403).end({ err: 'You\'re not authorized to perform this action' })
-        return
+        return;
     }
     next()
 }

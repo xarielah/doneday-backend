@@ -5,7 +5,8 @@ export const boardService = {
     getBoards,
     createBoard,
     updateBoard,
-    deleteBoard
+    deleteBoard,
+    getBoardById
 };
 
 async function getBoards() {
@@ -16,9 +17,9 @@ async function getBoards() {
 
 async function createBoard(board) {
     const collection = await dbService.getCollection('boards');
-    const { insertedId } = await collection.insertOne(board);
+    const result = await collection.insertOne(board);
 
-    board._id = insertedId.toString();
+    board._id = result.insertedId.toString();
 
     return board;
 }
@@ -37,9 +38,19 @@ async function updateBoard(board) {
     return board;
 }
 
-async function deleteBoard(board) {
+async function getBoardById(boardId) {
     const collection = await dbService.getCollection('boards');
-    const { deletedCount } = await collection.deleteOne({ _id: ObjectId.createFromHexString(board._id) });
+    const board = await collection.findOne({ _id: ObjectId.createFromHexString(boardId) });
+
+    if (!board)
+        return Promise.reject('Could not find board');
+
+    return board;
+}
+
+async function deleteBoard(boardId) {
+    const collection = await dbService.getCollection('boards');
+    const { deletedCount } = await collection.deleteOne({ _id: ObjectId.createFromHexString(boardId) });
 
     if (deletedCount === 0)
         return Promise.reject('Could not delete board');

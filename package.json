@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "start": "node server.js",
-    "dev": "nodemon server.js",
+    "dev": "set GUEST_MODE=true & nodemon server.js",
     "start-build": "cd ./doneday-frontend && npm ci && npm run build && cd .. && npm run server:prod",
     "server:prod": "set NODE_ENV=production&node server.js",
     "server:prod:mac": "export NODE_ENV=production && node server.js"
