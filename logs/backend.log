@@ -4253,3 +4253,13 @@
 20.3.2025, 19:10:22 - INFO - Socket disconnected [id: undefined]
 20.3.2025, 19:10:26 - INFO - Socket disconnected [id: undefined]
 20.3.2025, 19:10:29 - INFO - Socket disconnected [id: undefined]
+20.3.2025, 19:31:54 - DEBUG - Setting up sockets
+20.3.2025, 19:31:54 - INFO - Server is running on port: 3030
+20.3.2025, 19:31:57 - INFO - New connected socket [id: RnOgFpmbX10GdgAKAAAB]
+20.3.2025, 19:31:58 - INFO - New connected socket [id: JwfPtbRMgPpRScKCAAAD]
+20.3.2025, 19:32:04 - INFO - New connected socket [id: i5GXRbTWPmYUb2S5AAAF]
+20.3.2025, 19:32:08 - INFO - Event watch-board from socket [id: i5GXRbTWPmYUb2S5AAAF], on room board:67d5e424d4d10b418edcd0f9
+20.3.2025, 19:32:29 - INFO - Socket disconnected [id: undefined]
+20.3.2025, 19:37:04 - INFO - Socket disconnected [id: undefined]
+20.3.2025, 19:37:14 - INFO - New connected socket [id: CjnrGXjAXZqaHwUwAAAH]
+20.3.2025, 19:37:14 - INFO - Event watch-board from socket [id: CjnrGXjAXZqaHwUwAAAH], on room board:67d5e424d4d10b418edcd0f9
