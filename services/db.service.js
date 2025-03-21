@@ -1,4 +1,5 @@
-import { MongoClient } from 'mongodb'
+import { MongoClient } from 'mongodb';
+import { config } from '../config';
 
 
 export const dbService = {
@@ -7,11 +8,10 @@ export const dbService = {
 
 
 // Connection URL
-const url = 'mongodb://127.0.0.1:27017/'
-
+const url = config.dbURL;
 
 // Database Name
-const dbName = 'doneday_db'
+const dbName = config.dbName
 var dbConn = null
 
 
