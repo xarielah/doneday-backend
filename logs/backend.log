@@ -4995,3 +4995,20 @@
 21.3.2025, 19:03:08 - INFO - Socket disconnected [id: undefined]
 21.3.2025, 19:03:08 - INFO - New connected socket [id: qRjsBLLN5P97BXVAAAAv]
 21.3.2025, 19:03:08 - INFO - Setting socket.userId = 67dd75f1229db84f413b2bf6 for socket [id: qRjsBLLN5P97BXVAAAAv]
+22.3.2025, 1:26:24 - DEBUG - Setting up sockets
+22.3.2025, 1:26:24 - INFO - Server is running on port: 3030
+22.3.2025, 1:26:38 - DEBUG - Setting up sockets
+22.3.2025, 1:26:38 - INFO - Server is running on port: 3030
+22.3.2025, 1:27:27 - DEBUG - Setting up sockets
+22.3.2025, 1:27:27 - INFO - Server is running on port: 3030
+22.3.2025, 1:29:05 - DEBUG - Setting up sockets
+22.3.2025, 1:29:05 - INFO - Server is running on port: 3030
+22.3.2025, 1:29:23 - DEBUG - Setting up sockets
+22.3.2025, 1:29:23 - INFO - Server is running on port: 3030
+22.3.2025, 1:29:28 - DEBUG - Setting up sockets
+22.3.2025, 1:29:28 - INFO - Server is running on port: 3030
+22.3.2025, 1:29:29 - INFO - New connected socket [id: TAPZRS034_2NJQ61AAAB]
+22.3.2025, 1:29:35 - DEBUG - auth.service - login with username: ariel | 67dd75f1229db84f413b2bf6
+22.3.2025, 1:29:35 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 1:29:36 - INFO - New connected socket [id: 2qeIDtAVT2GGkPVgAAAD]
+22.3.2025, 1:29:36 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: 2qeIDtAVT2GGkPVgAAAD]
