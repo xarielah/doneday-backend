@@ -7,8 +7,20 @@ export const userService = {
     createUser,
     updateUser,
     deleteUser,
+    getUsers,
     getUserByUsername
 };
+
+async function getUsers() {
+    const collection = await dbService.getCollection('users');
+    const users = await collection.find({}).toArray();
+
+    for (let user of users) {
+        delete user.password;
+    }
+
+    return users;
+}
 
 async function getUserById(userId) {
     const collection = await dbService.getCollection('users');
