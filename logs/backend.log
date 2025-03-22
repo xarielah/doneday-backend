@@ -5012,3 +5012,49 @@
 22.3.2025, 1:29:35 - INFO - Socket disconnected [id: undefined]
 22.3.2025, 1:29:36 - INFO - New connected socket [id: 2qeIDtAVT2GGkPVgAAAD]
 22.3.2025, 1:29:36 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: 2qeIDtAVT2GGkPVgAAAD]
+22.3.2025, 13:39:49 - DEBUG - Setting up sockets
+22.3.2025, 13:39:49 - INFO - Server is running on port: 3030
+22.3.2025, 13:39:50 - INFO - New connected socket [id: ZsKe1uSRTSK2pc53AAAB]
+22.3.2025, 13:39:52 - INFO - New connected socket [id: 5RczeoU-R-z0n4h1AAAD]
+22.3.2025, 13:39:52 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 13:39:52 - INFO - New connected socket [id: KRM5jY2XGyEVDZr0AAAF]
+22.3.2025, 13:39:54 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 13:39:54 - INFO - New connected socket [id: Z2ouFifgBIJNPOMVAAAH]
+22.3.2025, 13:40:18 - DEBUG - auth.service - login with username: ariel
+22.3.2025, 13:40:18 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 13:40:18 - INFO - New connected socket [id: KMM9bN8c4hX4RuX3AAAJ]
+22.3.2025, 13:40:18 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: KMM9bN8c4hX4RuX3AAAJ]
+22.3.2025, 13:40:25 - DEBUG - auth.service - login with username: dor
+22.3.2025, 13:40:25 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 13:40:25 - INFO - New connected socket [id: XmU3exfS0zL6tcriAAAL]
+22.3.2025, 13:40:25 - INFO - Setting socket.userId = 67dd75f1229db84f413b2bf6 for socket [id: XmU3exfS0zL6tcriAAAL]
+22.3.2025, 13:40:30 - INFO - Event watch-board from socket [id: XmU3exfS0zL6tcriAAAL], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 13:40:33 - INFO - Event watch-board from socket [id: KMM9bN8c4hX4RuX3AAAJ], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 13:40:43 - INFO - Broadcasting event: updated-board | 67dd75f1229db84f413b2bf6
+22.3.2025, 13:40:43 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67dd75f1229db84f413b2bf6 | 67dd75f1229db84f413b2bf6
+22.3.2025, 13:40:49 - INFO - Broadcasting event: updated-board | 67dd75f1229db84f413b2bf6
+22.3.2025, 13:40:49 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67dd75f1229db84f413b2bf6 | 67dd75f1229db84f413b2bf6
+22.3.2025, 13:40:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67dd75f1229db84f413b2bf6 | 67dd75f1229db84f413b2bf6
+22.3.2025, 13:40:56 - INFO - Broadcasting event: updated-board | 67dd75f1229db84f413b2bf6
+22.3.2025, 13:41:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 13:41:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 13:41:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 13:41:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 13:41:29 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 13:41:29 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 13:41:44 - INFO - Broadcasting event: updated-board | 67dd75f1229db84f413b2bf6
+22.3.2025, 13:41:44 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67dd75f1229db84f413b2bf6 | 67dd75f1229db84f413b2bf6
+22.3.2025, 13:41:47 - INFO - Broadcasting event: updated-board | 67dd75f1229db84f413b2bf6
+22.3.2025, 13:41:47 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67dd75f1229db84f413b2bf6 | 67dd75f1229db84f413b2bf6
+22.3.2025, 13:42:05 - INFO - Event unwatch-board from socket [id: KMM9bN8c4hX4RuX3AAAJ], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 13:42:40 - INFO - Event watch-board from socket [id: KMM9bN8c4hX4RuX3AAAJ], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 13:42:42 - INFO - Event unwatch-board from socket [id: KMM9bN8c4hX4RuX3AAAJ], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 13:42:42 - INFO - Event unwatch-board from socket [id: KMM9bN8c4hX4RuX3AAAJ], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 13:42:44 - INFO - Event unwatch-board from socket [id: KMM9bN8c4hX4RuX3AAAJ], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 13:42:45 - INFO - Event unwatch-board from socket [id: KMM9bN8c4hX4RuX3AAAJ], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 13:42:46 - INFO - Event unwatch-board from socket [id: KMM9bN8c4hX4RuX3AAAJ], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 13:42:46 - INFO - Event unwatch-board from socket [id: KMM9bN8c4hX4RuX3AAAJ], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 13:42:47 - INFO - Event unwatch-board from socket [id: KMM9bN8c4hX4RuX3AAAJ], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 13:42:47 - INFO - Event unwatch-board from socket [id: KMM9bN8c4hX4RuX3AAAJ], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 14:44:50 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 14:44:50 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
