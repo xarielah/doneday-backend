@@ -5058,3 +5058,1586 @@
 22.3.2025, 13:42:47 - INFO - Event unwatch-board from socket [id: KMM9bN8c4hX4RuX3AAAJ], on room board:67dd7e8ce3e22a4266db9db6
 22.3.2025, 14:44:50 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
 22.3.2025, 14:44:50 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:45 - DEBUG - Setting up sockets
+22.3.2025, 19:05:45 - INFO - Server is running on port: 3030
+22.3.2025, 19:05:46 - INFO - New connected socket [id: LP2_ZHDqlegg0062AAAB]
+22.3.2025, 19:05:46 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: LP2_ZHDqlegg0062AAAB]
+22.3.2025, 19:05:46 - INFO - New connected socket [id: zeNb_vgiicsx-S6RAAAD]
+22.3.2025, 19:05:48 - DEBUG - auth.service - login with username: ariel
+22.3.2025, 19:05:48 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:05:48 - INFO - New connected socket [id: -u8b5i2jjhugLiV1AAAF]
+22.3.2025, 19:05:48 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: -u8b5i2jjhugLiV1AAAF]
+22.3.2025, 19:05:50 - INFO - Event watch-board from socket [id: -u8b5i2jjhugLiV1AAAF], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:05:51 - INFO - Event watch-board from socket [id: LP2_ZHDqlegg0062AAAB], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:05:53 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:53 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:54 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:55 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:56 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:05:59 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:01 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:02 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:03 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - Socket disconnected [id: undefined] | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:04 - INFO - New connected socket [id: CGcqXqpkkAA2NYbRAAAH]
+22.3.2025, 19:06:05 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: CGcqXqpkkAA2NYbRAAAH]
+22.3.2025, 19:06:05 - INFO - Event watch-board from socket [id: CGcqXqpkkAA2NYbRAAAH], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:06:07 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:07 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:07 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:07 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:07 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:07 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:07 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:07 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:07 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:07 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:07 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:07 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:07 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:07 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:07 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:07 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:08 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:10 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:11 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:14 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:16 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:19 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:22 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:23 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:24 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:25 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:26 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:27 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:28 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:29 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:30 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:31 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:31 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:31 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:31 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:31 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:31 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:31 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:31 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:31 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:31 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:31 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:31 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:32 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:06:33 - INFO - New connected socket [id: BaI2M7wMDRFu7S-5AAAJ]
+22.3.2025, 19:06:33 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: BaI2M7wMDRFu7S-5AAAJ]
+22.3.2025, 19:06:33 - INFO - Event watch-board from socket [id: BaI2M7wMDRFu7S-5AAAJ], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:06:34 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:34 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:37 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:06:38 - INFO - New connected socket [id: b5xBkkuhEuehYJB8AAAL]
+22.3.2025, 19:06:38 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: b5xBkkuhEuehYJB8AAAL]
+22.3.2025, 19:06:38 - INFO - Event watch-board from socket [id: b5xBkkuhEuehYJB8AAAL], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:06:40 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:40 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:43 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:43 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:46 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:46 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:49 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:06:49 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:08:06 - DEBUG - Setting up sockets
+22.3.2025, 19:08:06 - INFO - Server is running on port: 3030
+22.3.2025, 19:08:06 - INFO - New connected socket [id: iT2UsLqp7SEanKbiAAAB]
+22.3.2025, 19:08:07 - INFO - New connected socket [id: f6G9xZ-lcDT9g8efAAAD]
+22.3.2025, 19:08:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:08:13 - INFO - Emit to room: board:67dd7e8ce3e22a4266db9db6 | 67d0854f9ac065be10afc10f
+22.3.2025, 19:08:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:08:18 - INFO - Emit to room: board:67dd7e8ce3e22a4266db9db6 | 67d0854f9ac065be10afc10f
+22.3.2025, 19:08:22 - DEBUG - Setting up sockets
+22.3.2025, 19:08:22 - INFO - Server is running on port: 3030
+22.3.2025, 19:08:23 - INFO - New connected socket [id: fWhy7_GiSyk8vUF9AAAB]
+22.3.2025, 19:08:23 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:08:23 - INFO - New connected socket [id: KrENoNEOANbglzYUAAAD]
+22.3.2025, 19:08:23 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: KrENoNEOANbglzYUAAAD]
+22.3.2025, 19:08:24 - INFO - New connected socket [id: 5B9zpRMziuxDb9n7AAAF]
+22.3.2025, 19:08:24 - INFO - Event watch-board from socket [id: KrENoNEOANbglzYUAAAD], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:08:25 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:08:25 - INFO - Emit to room: board:67dd7e8ce3e22a4266db9db6 | 67d0854f9ac065be10afc10f
+22.3.2025, 19:09:13 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:09:22 - INFO - Event unwatch-board from socket [id: 5B9zpRMziuxDb9n7AAAF], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:09:24 - INFO - New connected socket [id: YeZgylKeNx-kQ1FvAAAH]
+22.3.2025, 19:09:24 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: YeZgylKeNx-kQ1FvAAAH]
+22.3.2025, 19:09:24 - INFO - Event watch-board from socket [id: YeZgylKeNx-kQ1FvAAAH], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:09:27 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:09:27 - INFO - New connected socket [id: 1rrKyXU8H6Z3pWmBAAAJ]
+22.3.2025, 19:09:27 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: 1rrKyXU8H6Z3pWmBAAAJ]
+22.3.2025, 19:09:27 - INFO - Event watch-board from socket [id: 1rrKyXU8H6Z3pWmBAAAJ], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:09:29 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:09:29 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:09:29 - INFO - Triggering notification from socket [id: YeZgylKeNx-kQ1FvAAAH]
+22.3.2025, 19:10:03 - DEBUG - Setting up sockets
+22.3.2025, 19:10:03 - INFO - Server is running on port: 3030
+22.3.2025, 19:10:04 - INFO - New connected socket [id: W1uJYZQU2Pt3a5kSAAAB]
+22.3.2025, 19:10:05 - INFO - New connected socket [id: qpqB9wrDRLEBUEONAAAD]
+22.3.2025, 19:10:07 - DEBUG - Setting up sockets
+22.3.2025, 19:10:07 - INFO - Server is running on port: 3030
+22.3.2025, 19:10:07 - INFO - New connected socket [id: X3FolveFbcA_ugjqAAAB]
+22.3.2025, 19:10:08 - INFO - New connected socket [id: j8PVsNW2il8u95YTAAAD]
+22.3.2025, 19:10:10 - DEBUG - Setting up sockets
+22.3.2025, 19:10:10 - INFO - Server is running on port: 3030
+22.3.2025, 19:10:11 - INFO - New connected socket [id: V0-8YpI9Any5OXyMAAAB]
+22.3.2025, 19:10:12 - INFO - New connected socket [id: YERfzARH6LADOFFaAAAD]
+22.3.2025, 19:10:15 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:10:15 - INFO - Emit to room: board:67dd7e8ce3e22a4266db9db6 | 67d0854f9ac065be10afc10f
+22.3.2025, 19:10:15 - INFO - Triggering notification from socket [id: V0-8YpI9Any5OXyMAAAB]
+22.3.2025, 19:10:42 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:10:42 - INFO - Emit to room: board:67dd7e8ce3e22a4266db9db6 | 67d0854f9ac065be10afc10f
+22.3.2025, 19:10:42 - INFO - Triggering notification from socket [id: YERfzARH6LADOFFaAAAD]
+22.3.2025, 19:10:44 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:10:44 - INFO - Emit to room: board:67dd7e8ce3e22a4266db9db6 | 67d0854f9ac065be10afc10f
+22.3.2025, 19:10:44 - INFO - Triggering notification from socket [id: YERfzARH6LADOFFaAAAD]
+22.3.2025, 19:10:44 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:10:45 - INFO - New connected socket [id: iJJXEKqiKP8dkWdtAAAF]
+22.3.2025, 19:10:45 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: iJJXEKqiKP8dkWdtAAAF]
+22.3.2025, 19:10:45 - INFO - Event watch-board from socket [id: iJJXEKqiKP8dkWdtAAAF], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:10:45 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:10:46 - INFO - New connected socket [id: B05RFPCL9lrDDg9yAAAH]
+22.3.2025, 19:10:46 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: B05RFPCL9lrDDg9yAAAH]
+22.3.2025, 19:10:46 - INFO - Event watch-board from socket [id: B05RFPCL9lrDDg9yAAAH], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:10:48 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:10:48 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:10:48 - INFO - Triggering notification from socket [id: iJJXEKqiKP8dkWdtAAAF]
+22.3.2025, 19:11:07 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:11:07 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:11:07 - INFO - Triggering notification from socket [id: iJJXEKqiKP8dkWdtAAAF]
+22.3.2025, 19:11:43 - INFO - Event unwatch-board from socket [id: B05RFPCL9lrDDg9yAAAH], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:11:44 - INFO - Event unwatch-board from socket [id: iJJXEKqiKP8dkWdtAAAF], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:12:28 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:12:28 - INFO - New connected socket [id: 1CoxOReCgfCxyfzXAAAJ]
+22.3.2025, 19:12:28 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: 1CoxOReCgfCxyfzXAAAJ]
+22.3.2025, 19:12:28 - INFO - Event watch-board from socket [id: 1CoxOReCgfCxyfzXAAAJ], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:12:37 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:12:37 - INFO - New connected socket [id: WdDq0vdqJHi7yONSAAAL]
+22.3.2025, 19:12:37 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: WdDq0vdqJHi7yONSAAAL]
+22.3.2025, 19:12:37 - INFO - Event watch-board from socket [id: WdDq0vdqJHi7yONSAAAL], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:12:39 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:12:39 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:12:39 - INFO - Triggering notification from socket [id: WdDq0vdqJHi7yONSAAAL]
+22.3.2025, 19:12:42 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:12:42 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:12:42 - INFO - Triggering notification from socket [id: WdDq0vdqJHi7yONSAAAL]
+22.3.2025, 19:13:17 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:13:17 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:13:17 - INFO - Triggering notification from socket [id: WdDq0vdqJHi7yONSAAAL]
+22.3.2025, 19:18:44 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:18:44 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:23:31 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:23:31 - INFO - New connected socket [id: THllFgIUxwOG2urBAAAN]
+22.3.2025, 19:23:31 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: THllFgIUxwOG2urBAAAN]
+22.3.2025, 19:23:31 - INFO - Event watch-board from socket [id: THllFgIUxwOG2urBAAAN], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:23:43 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:23:43 - INFO - New connected socket [id: 3-61GZfo4x9WkdrjAAAP]
+22.3.2025, 19:23:43 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: 3-61GZfo4x9WkdrjAAAP]
+22.3.2025, 19:23:44 - INFO - Event watch-board from socket [id: 3-61GZfo4x9WkdrjAAAP], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:24:18 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:24:18 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:24:26 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:24:26 - INFO - New connected socket [id: El2DT77Jer73-BEPAAAR]
+22.3.2025, 19:24:26 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: El2DT77Jer73-BEPAAAR]
+22.3.2025, 19:24:26 - INFO - Event watch-board from socket [id: El2DT77Jer73-BEPAAAR], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:24:37 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:24:37 - INFO - New connected socket [id: ZEwGHl2t9MEtrAJAAAAT]
+22.3.2025, 19:24:37 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: ZEwGHl2t9MEtrAJAAAAT]
+22.3.2025, 19:24:38 - INFO - Event watch-board from socket [id: ZEwGHl2t9MEtrAJAAAAT], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:24:41 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:24:41 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:24:57 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:24:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:26:35 - INFO - Event unwatch-board from socket [id: El2DT77Jer73-BEPAAAR], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:26:36 - INFO - Event unwatch-board from socket [id: ZEwGHl2t9MEtrAJAAAAT], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:26:36 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:26:36 - INFO - New connected socket [id: iw2CaVeGWyAhMb1kAAAV]
+22.3.2025, 19:26:36 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: iw2CaVeGWyAhMb1kAAAV]
+22.3.2025, 19:26:36 - INFO - Event watch-board from socket [id: iw2CaVeGWyAhMb1kAAAV], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:26:41 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:26:41 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:26:41 - INFO - Triggering notification from socket [id: iw2CaVeGWyAhMb1kAAAV]
+22.3.2025, 19:26:48 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 19:26:49 - INFO - New connected socket [id: yfC88HljekcppKNVAAAX]
+22.3.2025, 19:26:49 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: yfC88HljekcppKNVAAAX]
+22.3.2025, 19:26:49 - INFO - Event watch-board from socket [id: yfC88HljekcppKNVAAAX], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:26:51 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:26:51 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:26:51 - INFO - Triggering notification from socket [id: iw2CaVeGWyAhMb1kAAAV]
+22.3.2025, 19:26:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 19:26:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 19:26:58 - INFO - Triggering notification from socket [id: iw2CaVeGWyAhMb1kAAAV]
+22.3.2025, 19:56:41 - INFO - Event unwatch-board from socket [id: yfC88HljekcppKNVAAAX], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 19:56:51 - INFO - Event watch-board from socket [id: yfC88HljekcppKNVAAAX], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:11:32 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:11:32 - INFO - New connected socket [id: Qrs2vwZ65NitB1ETAAAZ]
+22.3.2025, 20:11:32 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: Qrs2vwZ65NitB1ETAAAZ]
+22.3.2025, 20:11:32 - INFO - Event watch-board from socket [id: Qrs2vwZ65NitB1ETAAAZ], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:11:36 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:11:37 - INFO - New connected socket [id: ZRH44QB_pLxRGJdtAAAb]
+22.3.2025, 20:11:37 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: ZRH44QB_pLxRGJdtAAAb]
+22.3.2025, 20:11:37 - INFO - Event watch-board from socket [id: ZRH44QB_pLxRGJdtAAAb], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:11:38 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:11:38 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:11:40 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:11:40 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:11:44 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:11:44 - INFO - New connected socket [id: 0GTah3VG4VXkcVcUAAAd]
+22.3.2025, 20:11:44 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: 0GTah3VG4VXkcVcUAAAd]
+22.3.2025, 20:11:44 - INFO - Event watch-board from socket [id: 0GTah3VG4VXkcVcUAAAd], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:11:46 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:11:46 - INFO - New connected socket [id: GZG3HVGEE1-XfaPVAAAf]
+22.3.2025, 20:11:46 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: GZG3HVGEE1-XfaPVAAAf]
+22.3.2025, 20:11:46 - INFO - Event watch-board from socket [id: GZG3HVGEE1-XfaPVAAAf], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:11:48 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:11:48 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:11:50 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:11:50 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:11:53 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:11:53 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:11:53 - INFO - Triggering notification from socket [id: 0GTah3VG4VXkcVcUAAAd]
+22.3.2025, 20:12:33 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:12:33 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:12:33 - INFO - Triggering notification from socket [id: GZG3HVGEE1-XfaPVAAAf]
+22.3.2025, 20:13:00 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:13:00 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:13:00 - INFO - Triggering notification from socket [id: 0GTah3VG4VXkcVcUAAAd]
+22.3.2025, 20:14:37 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:14:37 - INFO - New connected socket [id: hapjuSbwmoG-7oKXAAAh]
+22.3.2025, 20:14:37 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: hapjuSbwmoG-7oKXAAAh]
+22.3.2025, 20:14:38 - INFO - Event watch-board from socket [id: hapjuSbwmoG-7oKXAAAh], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:14:39 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:14:39 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:14:39 - INFO - Triggering notification from socket [id: hapjuSbwmoG-7oKXAAAh]
+22.3.2025, 20:14:54 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:14:55 - INFO - New connected socket [id: G5Knr9e9a4TyUUDhAAAj]
+22.3.2025, 20:14:55 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: G5Knr9e9a4TyUUDhAAAj]
+22.3.2025, 20:14:55 - INFO - Event watch-board from socket [id: G5Knr9e9a4TyUUDhAAAj], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:15:06 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:15:06 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:15:06 - INFO - Triggering notification from socket [id: G5Knr9e9a4TyUUDhAAAj]
+22.3.2025, 20:15:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:15:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:15:09 - INFO - Triggering notification from socket [id: G5Knr9e9a4TyUUDhAAAj]
+22.3.2025, 20:15:12 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:15:12 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:15:12 - INFO - Triggering notification from socket [id: G5Knr9e9a4TyUUDhAAAj]
+22.3.2025, 20:15:20 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:15:20 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:15:20 - INFO - Triggering notification from socket [id: G5Knr9e9a4TyUUDhAAAj]
+22.3.2025, 20:15:34 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:15:34 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:15:34 - INFO - Triggering notification from socket [id: G5Knr9e9a4TyUUDhAAAj]
+22.3.2025, 20:15:35 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:15:35 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:15:35 - INFO - Triggering notification from socket [id: G5Knr9e9a4TyUUDhAAAj]
+22.3.2025, 20:15:49 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:15:49 - INFO - New connected socket [id: VAmGKGz2JoVEKYYKAAAl]
+22.3.2025, 20:15:49 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: VAmGKGz2JoVEKYYKAAAl]
+22.3.2025, 20:15:49 - INFO - Event watch-board from socket [id: VAmGKGz2JoVEKYYKAAAl], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:16:12 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:16:13 - INFO - New connected socket [id: R7HDJB9xr495PAReAAAn]
+22.3.2025, 20:16:13 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: R7HDJB9xr495PAReAAAn]
+22.3.2025, 20:16:13 - INFO - Event watch-board from socket [id: R7HDJB9xr495PAReAAAn], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:16:32 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:16:32 - INFO - New connected socket [id: 6Y6t38TP1oJGEzA3AAAp]
+22.3.2025, 20:16:32 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: 6Y6t38TP1oJGEzA3AAAp]
+22.3.2025, 20:16:32 - INFO - Event watch-board from socket [id: 6Y6t38TP1oJGEzA3AAAp], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:32:38 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:32:38 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:32:38 - INFO - Triggering notification from socket [id: G5Knr9e9a4TyUUDhAAAj]
+22.3.2025, 20:34:46 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:34:46 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:34:46 - INFO - Triggering notification from socket [id: G5Knr9e9a4TyUUDhAAAj]
+22.3.2025, 20:40:28 - INFO - Event unwatch-board from socket [id: 6Y6t38TP1oJGEzA3AAAp], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:40:29 - INFO - Event unwatch-board from socket [id: G5Knr9e9a4TyUUDhAAAj], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:41:22 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:41:22 - INFO - New connected socket [id: PQRKI9R_lKRD5M2qAAAr]
+22.3.2025, 20:41:22 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: PQRKI9R_lKRD5M2qAAAr]
+22.3.2025, 20:41:22 - INFO - Event watch-board from socket [id: PQRKI9R_lKRD5M2qAAAr], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:41:23 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:41:23 - INFO - New connected socket [id: rABObF3Ph9a8znUSAAAt]
+22.3.2025, 20:41:23 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: rABObF3Ph9a8znUSAAAt]
+22.3.2025, 20:41:24 - INFO - Event watch-board from socket [id: rABObF3Ph9a8znUSAAAt], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:41:50 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:41:51 - INFO - New connected socket [id: CyycbXq9P1YUiOalAAAv]
+22.3.2025, 20:41:51 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: CyycbXq9P1YUiOalAAAv]
+22.3.2025, 20:41:51 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:41:51 - INFO - Event watch-board from socket [id: CyycbXq9P1YUiOalAAAv], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:41:51 - INFO - New connected socket [id: iae2WiP5bLbjzp3NAAAx]
+22.3.2025, 20:41:51 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: iae2WiP5bLbjzp3NAAAx]
+22.3.2025, 20:41:52 - INFO - Event watch-board from socket [id: iae2WiP5bLbjzp3NAAAx], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:42:10 - INFO - Event unwatch-board from socket [id: CyycbXq9P1YUiOalAAAv], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:42:11 - INFO - Event unwatch-board from socket [id: iae2WiP5bLbjzp3NAAAx], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:42:41 - INFO - Event unwatch-board from socket [id: CyycbXq9P1YUiOalAAAv], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:42:42 - INFO - Event unwatch-board from socket [id: iae2WiP5bLbjzp3NAAAx], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:43:53 - INFO - Event unwatch-board from socket [id: CyycbXq9P1YUiOalAAAv], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:43:54 - INFO - Event unwatch-board from socket [id: iae2WiP5bLbjzp3NAAAx], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:43:57 - INFO - Event unwatch-board from socket [id: CyycbXq9P1YUiOalAAAv], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:43:58 - INFO - Event unwatch-board from socket [id: iae2WiP5bLbjzp3NAAAx], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:43:59 - INFO - Event unwatch-board from socket [id: CyycbXq9P1YUiOalAAAv], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:44:00 - INFO - Event unwatch-board from socket [id: iae2WiP5bLbjzp3NAAAx], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:44:18 - INFO - Event unwatch-board from socket [id: CyycbXq9P1YUiOalAAAv], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:44:18 - INFO - Event unwatch-board from socket [id: iae2WiP5bLbjzp3NAAAx], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:46:09 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:46:09 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:46:09 - INFO - Triggering notification from socket [id: iae2WiP5bLbjzp3NAAAx]
+22.3.2025, 20:46:13 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:46:13 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:46:13 - INFO - Triggering notification from socket [id: iae2WiP5bLbjzp3NAAAx]
+22.3.2025, 20:46:21 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:46:21 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:46:21 - INFO - Triggering notification from socket [id: iae2WiP5bLbjzp3NAAAx]
+22.3.2025, 20:46:36 - INFO - Event unwatch-board from socket [id: CyycbXq9P1YUiOalAAAv], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:46:37 - INFO - Event unwatch-board from socket [id: iae2WiP5bLbjzp3NAAAx], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:46:45 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:46:45 - INFO - New connected socket [id: TjxDA0PGRCtm-ffSAAAz]
+22.3.2025, 20:46:45 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: TjxDA0PGRCtm-ffSAAAz]
+22.3.2025, 20:46:46 - INFO - Event watch-board from socket [id: TjxDA0PGRCtm-ffSAAAz], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:46:51 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:46:51 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:46:51 - INFO - Triggering notification from socket [id: iae2WiP5bLbjzp3NAAAx]
+22.3.2025, 20:46:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:46:58 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:46:58 - INFO - Triggering notification from socket [id: iae2WiP5bLbjzp3NAAAx]
+22.3.2025, 20:51:24 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:51:24 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:51:24 - INFO - Triggering notification from socket [id: iae2WiP5bLbjzp3NAAAx]
+22.3.2025, 20:52:32 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:52:32 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:52:32 - INFO - Triggering notification from socket [id: iae2WiP5bLbjzp3NAAAx]
+22.3.2025, 20:52:36 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+22.3.2025, 20:52:36 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+22.3.2025, 20:52:36 - INFO - Triggering notification from socket [id: iae2WiP5bLbjzp3NAAAx]
+22.3.2025, 20:53:42 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:53:42 - INFO - New connected socket [id: YbLN64A-TRIbk3NJAAA1]
+22.3.2025, 20:53:42 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: YbLN64A-TRIbk3NJAAA1]
+22.3.2025, 20:53:42 - INFO - Event watch-board from socket [id: YbLN64A-TRIbk3NJAAA1], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:53:43 - INFO - Event unwatch-board from socket [id: iae2WiP5bLbjzp3NAAAx], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:53:43 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:53:43 - INFO - New connected socket [id: G2Aho7NtZ2d4Dd86AAA3]
+22.3.2025, 20:53:43 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: G2Aho7NtZ2d4Dd86AAA3]
+22.3.2025, 20:53:44 - INFO - Event watch-board from socket [id: G2Aho7NtZ2d4Dd86AAA3], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:54:00 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:54:00 - INFO - New connected socket [id: 6FJekjvQg4vWXvvPAAA5]
+22.3.2025, 20:54:00 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: 6FJekjvQg4vWXvvPAAA5]
+22.3.2025, 20:54:00 - INFO - Event watch-board from socket [id: 6FJekjvQg4vWXvvPAAA5], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:54:01 - INFO - Event unwatch-board from socket [id: G2Aho7NtZ2d4Dd86AAA3], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:54:01 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:54:01 - INFO - New connected socket [id: je8kppm7GJk7Cn1uAAA7]
+22.3.2025, 20:54:01 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: je8kppm7GJk7Cn1uAAA7]
+22.3.2025, 20:54:02 - INFO - Event watch-board from socket [id: je8kppm7GJk7Cn1uAAA7], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:54:27 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:54:27 - INFO - New connected socket [id: lMkm24Bh2vA1Fzi4AAA9]
+22.3.2025, 20:54:27 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: lMkm24Bh2vA1Fzi4AAA9]
+22.3.2025, 20:54:27 - INFO - Event watch-board from socket [id: lMkm24Bh2vA1Fzi4AAA9], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:54:28 - INFO - Event unwatch-board from socket [id: je8kppm7GJk7Cn1uAAA7], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:54:28 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:54:28 - INFO - New connected socket [id: q1fiw7el96yhIlw3AAA_]
+22.3.2025, 20:54:28 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: q1fiw7el96yhIlw3AAA_]
+22.3.2025, 20:54:29 - INFO - Event watch-board from socket [id: q1fiw7el96yhIlw3AAA_], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:54:35 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:54:36 - INFO - New connected socket [id: UrPkAQyFHSPfSBalAABB]
+22.3.2025, 20:54:36 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: UrPkAQyFHSPfSBalAABB]
+22.3.2025, 20:54:36 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:54:36 - INFO - Event watch-board from socket [id: UrPkAQyFHSPfSBalAABB], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:54:36 - INFO - New connected socket [id: 00FJdSGDntVDJJ2vAABD]
+22.3.2025, 20:54:36 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: 00FJdSGDntVDJJ2vAABD]
+22.3.2025, 20:54:37 - INFO - Event watch-board from socket [id: 00FJdSGDntVDJJ2vAABD], on room board:67dd7e8ce3e22a4266db9db6
+22.3.2025, 20:54:43 - INFO - Socket disconnected [id: undefined]
+22.3.2025, 20:54:49 - INFO - Socket disconnected [id: undefined]

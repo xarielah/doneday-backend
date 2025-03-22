@@ -35,6 +35,10 @@ export function setupSocketAPI(http) {
             logger.info(`Setting socket.userId = ${userId} for socket [id: ${socket.id}]`);
             socket.userId = userId;
         })
+        socket.on('trigger-notification', data => {
+            logger.info(`Triggering notification from socket [id: ${socket.id}]`);
+            socket.broadcast.to('board:' + data.boardId).emit('new-notification', data)
+        })
         socket.on('unset-user-socket', () => {
             logger.info(`Removing socket.userId for socket [id: ${socket.id}]`);
             delete socket.userId;
