@@ -6733,3 +6733,283 @@
 22.3.2025, 21:29:57 - INFO - Broadcast to room board:67dd7e8ce3e22a4266db9db6 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
 22.3.2025, 21:29:57 - INFO - Triggering notification from socket [id: Z32sxlVJgfQoCa8sAAAF]
 22.3.2025, 21:30:52 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:51:47 - DEBUG - Setting up sockets
+25.3.2025, 13:51:47 - INFO - Server is running on port: 3030
+25.3.2025, 13:51:55 - INFO - New connected socket [id: bxqSn9InuK2vDPjJAAAB]
+25.3.2025, 13:52:00 - DEBUG - auth.service - login with username: ariel
+25.3.2025, 13:52:00 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:52:00 - INFO - New connected socket [id: rQDT-no9RAFAVh_zAAAD]
+25.3.2025, 13:52:00 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: rQDT-no9RAFAVh_zAAAD]
+25.3.2025, 13:52:05 - INFO - New connected socket [id: ql0YBvfKMaEeof00AAAF]
+25.3.2025, 13:52:07 - DEBUG - auth.service - login with username: afik
+25.3.2025, 13:52:07 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:52:07 - INFO - New connected socket [id: aoOT5bm2-4-pWd27AAAH]
+25.3.2025, 13:52:08 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: aoOT5bm2-4-pWd27AAAH]
+25.3.2025, 13:52:10 - INFO - Event watch-board from socket [id: aoOT5bm2-4-pWd27AAAH], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:52:10 - INFO - Event unwatch-board from socket [id: aoOT5bm2-4-pWd27AAAH], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:52:12 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:52:12 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:52:15 - INFO - Event watch-board from socket [id: rQDT-no9RAFAVh_zAAAD], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:52:15 - INFO - Event unwatch-board from socket [id: rQDT-no9RAFAVh_zAAAD], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:52:16 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:52:16 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:52:16 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:52:16 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:52:19 - INFO - Event unwatch-board from socket [id: rQDT-no9RAFAVh_zAAAD], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:52:22 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:52:22 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:52:22 - INFO - Triggering notification from socket [id: aoOT5bm2-4-pWd27AAAH]
+25.3.2025, 13:52:29 - INFO - Event watch-board from socket [id: rQDT-no9RAFAVh_zAAAD], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:52:29 - INFO - Event unwatch-board from socket [id: rQDT-no9RAFAVh_zAAAD], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:52:31 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:52:31 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:52:31 - INFO - Triggering notification from socket [id: aoOT5bm2-4-pWd27AAAH]
+25.3.2025, 13:52:35 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:52:35 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:52:35 - INFO - Triggering notification from socket [id: aoOT5bm2-4-pWd27AAAH]
+25.3.2025, 13:52:42 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:52:42 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:52:42 - INFO - Triggering notification from socket [id: aoOT5bm2-4-pWd27AAAH]
+25.3.2025, 13:53:54 - DEBUG - Setting up sockets
+25.3.2025, 13:53:54 - INFO - Server is running on port: 3030
+25.3.2025, 13:53:55 - INFO - New connected socket [id: ZULuPjkGfhy4N_hOAAAB]
+25.3.2025, 13:53:56 - INFO - New connected socket [id: Gq9l9_b7eMz6GwQ0AAAD]
+25.3.2025, 13:54:00 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:54:00 - INFO - New connected socket [id: MqRnlfl47PDAh9aNAAAF]
+25.3.2025, 13:54:00 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: MqRnlfl47PDAh9aNAAAF]
+25.3.2025, 13:54:00 - INFO - Event watch-board from socket [id: MqRnlfl47PDAh9aNAAAF], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:54:00 - INFO - Event unwatch-board from socket [id: MqRnlfl47PDAh9aNAAAF], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:54:02 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:54:02 - INFO - New connected socket [id: aShlrBjIxtg3McDiAAAH]
+25.3.2025, 13:54:02 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: aShlrBjIxtg3McDiAAAH]
+25.3.2025, 13:54:02 - INFO - Event watch-board from socket [id: aShlrBjIxtg3McDiAAAH], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:54:02 - INFO - Event unwatch-board from socket [id: aShlrBjIxtg3McDiAAAH], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:54:04 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:54:04 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:54:04 - INFO - Triggering notification from socket [id: aShlrBjIxtg3McDiAAAH]
+25.3.2025, 13:54:22 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:54:22 - INFO - New connected socket [id: d4H0mJ4Fz4Re0Y7MAAAJ]
+25.3.2025, 13:54:22 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: d4H0mJ4Fz4Re0Y7MAAAJ]
+25.3.2025, 13:54:22 - INFO - Event watch-board from socket [id: d4H0mJ4Fz4Re0Y7MAAAJ], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:54:22 - INFO - Event unwatch-board from socket [id: d4H0mJ4Fz4Re0Y7MAAAJ], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:55:48 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:55:58 - INFO - New connected socket [id: tkvDKTrdO-22qRfXAAAL]
+25.3.2025, 13:56:04 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:56:04 - INFO - New connected socket [id: R3kLJI_cht10F4emAAAN]
+25.3.2025, 13:56:06 - DEBUG - auth.service - login with username: ariel | 67d0854f9ac065be10afc10f
+25.3.2025, 13:56:06 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:56:06 - INFO - New connected socket [id: LHWtT6YXUX6p1cjMAAAP]
+25.3.2025, 13:56:06 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: LHWtT6YXUX6p1cjMAAAP]
+25.3.2025, 13:56:08 - DEBUG - auth.service - login with username: afik | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:56:08 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:56:08 - INFO - New connected socket [id: 4KC9XghErHNDjiF8AAAR]
+25.3.2025, 13:56:08 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: 4KC9XghErHNDjiF8AAAR]
+25.3.2025, 13:56:10 - INFO - Event watch-board from socket [id: LHWtT6YXUX6p1cjMAAAP], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:56:10 - INFO - Event unwatch-board from socket [id: LHWtT6YXUX6p1cjMAAAP], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:56:11 - INFO - Event watch-board from socket [id: 4KC9XghErHNDjiF8AAAR], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:56:11 - INFO - Event unwatch-board from socket [id: 4KC9XghErHNDjiF8AAAR], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:56:14 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:56:14 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:56:14 - INFO - Triggering notification from socket [id: 4KC9XghErHNDjiF8AAAR]
+25.3.2025, 13:56:50 - INFO - Event unwatch-board from socket [id: 4KC9XghErHNDjiF8AAAR], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:56:50 - INFO - Event unwatch-board from socket [id: LHWtT6YXUX6p1cjMAAAP], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:56:53 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:56:53 - INFO - New connected socket [id: P6_09J5nhy3oSmurAAAT]
+25.3.2025, 13:56:53 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: P6_09J5nhy3oSmurAAAT]
+25.3.2025, 13:56:53 - INFO - Event watch-board from socket [id: P6_09J5nhy3oSmurAAAT], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:56:58 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:56:58 - INFO - New connected socket [id: WCB_CQB9ecTlyQluAAAV]
+25.3.2025, 13:56:58 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: WCB_CQB9ecTlyQluAAAV]
+25.3.2025, 13:56:58 - INFO - Event watch-board from socket [id: WCB_CQB9ecTlyQluAAAV], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:57:00 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:57:00 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:57:00 - INFO - Triggering notification from socket [id: WCB_CQB9ecTlyQluAAAV]
+25.3.2025, 13:57:04 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:57:04 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:57:04 - INFO - Triggering notification from socket [id: WCB_CQB9ecTlyQluAAAV]
+25.3.2025, 13:57:24 - DEBUG - Setting up sockets
+25.3.2025, 13:57:24 - INFO - Server is running on port: 3030
+25.3.2025, 13:57:24 - INFO - New connected socket [id: aPFY4zWWpZ27oW8fAAAC]
+25.3.2025, 13:57:24 - INFO - New connected socket [id: TSBZBcIjqnVN6ep1AAAD]
+25.3.2025, 13:57:33 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:57:33 - INFO - Emit to room: board:67dfe28c719682d1554feec2 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:57:36 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:57:36 - INFO - New connected socket [id: nICcISMMV7sHXKJMAAAF]
+25.3.2025, 13:57:36 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: nICcISMMV7sHXKJMAAAF]
+25.3.2025, 13:57:36 - INFO - Event watch-board from socket [id: nICcISMMV7sHXKJMAAAF], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:57:40 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:57:40 - INFO - Emit to room: board:67dfe28c719682d1554feec2 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:57:40 - INFO - Triggering notification from socket [id: aPFY4zWWpZ27oW8fAAAC]
+25.3.2025, 13:57:44 - INFO - Emit to room: board:67dfe28c719682d1554feec2 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:57:44 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:57:44 - INFO - Triggering notification from socket [id: aPFY4zWWpZ27oW8fAAAC]
+25.3.2025, 13:57:45 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:57:45 - INFO - New connected socket [id: YrurxfjM9YBsbc3mAAAH]
+25.3.2025, 13:57:45 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: YrurxfjM9YBsbc3mAAAH]
+25.3.2025, 13:57:45 - INFO - Event watch-board from socket [id: YrurxfjM9YBsbc3mAAAH], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:57:49 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:57:49 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:57:52 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:57:52 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:57:52 - INFO - Triggering notification from socket [id: YrurxfjM9YBsbc3mAAAH]
+25.3.2025, 13:58:04 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:58:04 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:58:04 - INFO - Triggering notification from socket [id: YrurxfjM9YBsbc3mAAAH]
+25.3.2025, 13:58:36 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:58:39 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:58:55 - INFO - New connected socket [id: q2NEl2TCkwwHaiQXAAAJ]
+25.3.2025, 13:58:55 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: q2NEl2TCkwwHaiQXAAAJ]
+25.3.2025, 13:58:56 - INFO - Event watch-board from socket [id: q2NEl2TCkwwHaiQXAAAJ], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:59:00 - INFO - New connected socket [id: a2yrY3o0nbSiJdnKAAAL]
+25.3.2025, 13:59:00 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: a2yrY3o0nbSiJdnKAAAL]
+25.3.2025, 13:59:00 - INFO - Event watch-board from socket [id: a2yrY3o0nbSiJdnKAAAL], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:59:05 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:59:05 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:59:05 - INFO - Triggering notification from socket [id: q2NEl2TCkwwHaiQXAAAJ]
+25.3.2025, 13:59:11 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:59:11 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:59:11 - INFO - Triggering notification from socket [id: q2NEl2TCkwwHaiQXAAAJ]
+25.3.2025, 13:59:40 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 13:59:40 - INFO - New connected socket [id: CFErnRupgQj6cs-wAAAN]
+25.3.2025, 13:59:40 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: CFErnRupgQj6cs-wAAAN]
+25.3.2025, 13:59:40 - INFO - Event watch-board from socket [id: CFErnRupgQj6cs-wAAAN], on room board:67dfe28c719682d1554feec2
+25.3.2025, 13:59:47 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:59:47 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:59:47 - INFO - Triggering notification from socket [id: CFErnRupgQj6cs-wAAAN]
+25.3.2025, 13:59:57 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:59:57 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 13:59:57 - INFO - Triggering notification from socket [id: CFErnRupgQj6cs-wAAAN]
+25.3.2025, 14:00:02 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 14:00:03 - INFO - New connected socket [id: A8kljT1B1AZscz0dAAAP]
+25.3.2025, 14:00:03 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: A8kljT1B1AZscz0dAAAP]
+25.3.2025, 14:00:03 - INFO - Event watch-board from socket [id: A8kljT1B1AZscz0dAAAP], on room board:67dfe28c719682d1554feec2
+25.3.2025, 14:00:26 - DEBUG - Setting up sockets
+25.3.2025, 14:00:26 - INFO - Server is running on port: 3030
+25.3.2025, 14:00:27 - INFO - New connected socket [id: fxo9CbxodDA0FQeIAAAB]
+25.3.2025, 14:00:28 - INFO - New connected socket [id: 4wB8i0yER2zwtFRnAAAD]
+25.3.2025, 14:00:32 - DEBUG - Setting up sockets
+25.3.2025, 14:00:32 - INFO - Server is running on port: 3030
+25.3.2025, 14:00:32 - INFO - New connected socket [id: O1yYi9CNzxXGkWoSAAAB]
+25.3.2025, 14:00:32 - INFO - New connected socket [id: yvavjVrA0itKJOUZAAAD]
+25.3.2025, 14:00:36 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 14:00:37 - INFO - New connected socket [id: lPaiGoQEMZjepmiXAAAF]
+25.3.2025, 14:00:37 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: lPaiGoQEMZjepmiXAAAF]
+25.3.2025, 14:00:37 - INFO - Event watch-board from socket [id: lPaiGoQEMZjepmiXAAAF], on room board:67dfe28c719682d1554feec2
+25.3.2025, 14:00:38 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 14:00:38 - INFO - New connected socket [id: BBwFW3LVrZnYnKGAAAAH]
+25.3.2025, 14:00:38 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: BBwFW3LVrZnYnKGAAAAH]
+25.3.2025, 14:00:38 - INFO - Event watch-board from socket [id: BBwFW3LVrZnYnKGAAAAH], on room board:67dfe28c719682d1554feec2
+25.3.2025, 14:00:41 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+25.3.2025, 14:00:41 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+25.3.2025, 14:00:41 - INFO - Triggering notification from socket [id: lPaiGoQEMZjepmiXAAAF]
+25.3.2025, 14:00:44 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:00:44 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:00:44 - INFO - Triggering notification from socket [id: BBwFW3LVrZnYnKGAAAAH]
+25.3.2025, 14:00:49 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:00:49 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:00:49 - INFO - Triggering notification from socket [id: BBwFW3LVrZnYnKGAAAAH]
+25.3.2025, 14:00:54 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:00:54 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:00:55 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:00:55 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:00:57 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:00:57 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:00:59 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:00:59 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:01:02 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:01:02 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:01:03 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:01:03 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:01:04 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:01:04 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:01:06 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:01:06 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:01:19 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:01:19 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:01:19 - INFO - Triggering notification from socket [id: BBwFW3LVrZnYnKGAAAAH]
+25.3.2025, 14:01:30 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:01:30 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:01:46 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+25.3.2025, 14:01:46 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+25.3.2025, 14:01:47 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+25.3.2025, 14:01:47 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+25.3.2025, 14:01:58 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+25.3.2025, 14:01:58 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+25.3.2025, 14:02:03 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+25.3.2025, 14:02:03 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+25.3.2025, 14:02:03 - INFO - Triggering notification from socket [id: lPaiGoQEMZjepmiXAAAF]
+25.3.2025, 14:02:05 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+25.3.2025, 14:02:05 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+25.3.2025, 14:02:10 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:02:10 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:02:11 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:02:11 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:02:12 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:02:12 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:02:15 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:02:15 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:02:19 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:02:19 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:02:21 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:02:21 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:02:26 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 14:02:26 - INFO - New connected socket [id: u4mNBMqG4QflPfhsAAAJ]
+25.3.2025, 14:02:26 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: u4mNBMqG4QflPfhsAAAJ]
+25.3.2025, 14:02:26 - INFO - Event watch-board from socket [id: u4mNBMqG4QflPfhsAAAJ], on room board:67dfe28c719682d1554feec2
+25.3.2025, 14:03:38 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:03:38 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:03:38 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 14:03:39 - INFO - New connected socket [id: ycVBePrTalvKDB38AAAL]
+25.3.2025, 14:03:39 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: ycVBePrTalvKDB38AAAL]
+25.3.2025, 14:03:39 - INFO - Event watch-board from socket [id: ycVBePrTalvKDB38AAAL], on room board:67dfe28c719682d1554feec2
+25.3.2025, 14:03:54 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 14:03:54 - INFO - New connected socket [id: eQRLTqH2uNEbKKROAAAN]
+25.3.2025, 14:03:54 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: eQRLTqH2uNEbKKROAAAN]
+25.3.2025, 14:03:54 - INFO - Event watch-board from socket [id: eQRLTqH2uNEbKKROAAAN], on room board:67dfe28c719682d1554feec2
+25.3.2025, 14:03:57 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:03:57 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:03:58 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:03:58 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:04:57 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:04:57 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:05:10 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:05:10 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:06:02 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 14:06:03 - INFO - New connected socket [id: Qb8AdAUWrOB9D0RvAAAP]
+25.3.2025, 14:06:03 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: Qb8AdAUWrOB9D0RvAAAP]
+25.3.2025, 14:06:03 - INFO - Event watch-board from socket [id: Qb8AdAUWrOB9D0RvAAAP], on room board:67dfe28c719682d1554feec2
+25.3.2025, 14:06:05 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+25.3.2025, 14:06:05 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+25.3.2025, 14:06:06 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+25.3.2025, 14:06:06 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+25.3.2025, 14:06:10 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+25.3.2025, 14:06:10 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+25.3.2025, 14:06:41 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:06:41 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:06:42 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 14:06:42 - INFO - New connected socket [id: 3YdOA3CWg1qUKlWiAAAR]
+25.3.2025, 14:06:42 - INFO - Setting socket.userId = 67dd75d4229db84f413b2bf5 for socket [id: 3YdOA3CWg1qUKlWiAAAR]
+25.3.2025, 14:06:43 - INFO - Event watch-board from socket [id: 3YdOA3CWg1qUKlWiAAAR], on room board:67dfe28c719682d1554feec2
+25.3.2025, 14:06:43 - INFO - Socket disconnected [id: undefined]
+25.3.2025, 14:06:43 - INFO - New connected socket [id: XytoCnjY6q0obK-NAAAT]
+25.3.2025, 14:06:43 - INFO - Setting socket.userId = 67d0854f9ac065be10afc10f for socket [id: XytoCnjY6q0obK-NAAAT]
+25.3.2025, 14:06:43 - INFO - Event watch-board from socket [id: XytoCnjY6q0obK-NAAAT], on room board:67dfe28c719682d1554feec2
+25.3.2025, 14:06:46 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:06:46 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:06:49 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:06:49 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:06:58 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:06:58 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:07:14 - INFO - Broadcasting event: updated-board | 67d0854f9ac065be10afc10f
+25.3.2025, 14:07:14 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67d0854f9ac065be10afc10f | 67d0854f9ac065be10afc10f
+25.3.2025, 14:08:27 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:08:27 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:08:29 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:08:29 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:08:31 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:08:31 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:08:36 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:08:36 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:08:39 - INFO - Broadcasting event: updated-board | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:08:39 - INFO - Broadcast to room board:67dfe28c719682d1554feec2 excluding user: 67dd75d4229db84f413b2bf5 | 67dd75d4229db84f413b2bf5
+25.3.2025, 14:08:39 - INFO - Triggering notification from socket [id: 3YdOA3CWg1qUKlWiAAAR]

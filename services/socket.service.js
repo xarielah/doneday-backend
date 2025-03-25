@@ -37,6 +37,7 @@ export function setupSocketAPI(http) {
         })
         socket.on('trigger-notification', data => {
             logger.info(`Triggering notification from socket [id: ${socket.id}]`);
+            console.log("🚀 ~ setupSocketAPI ~ data:", data)
             socket.broadcast.to('board:' + data.boardId).emit('new-notification', data)
         })
         socket.on('unset-user-socket', () => {
